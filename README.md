@@ -2,7 +2,7 @@
 
 ###### Overview
 
-A minimal [Foundation for Sites 6](https://foundation.zurb.com/sites.html) and [React](https://reactjs.org/) boilerplate with [Webpack](https://webpack.js.org/) to streamline common tasks.
+A minimal [Foundation for Sites 6](https://foundation.zurb.com/sites.html) and [React](https://reactjs.org/) boilerplate with [Webpack](https://webpack.js.org/) to streamline common front-end tasks.
 
 ## Getting Started
 
