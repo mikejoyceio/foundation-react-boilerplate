@@ -2,7 +2,7 @@
 
 ###### Overview
 
-A minimal [Foundation for Sites 6](https://foundation.zurb.com/sites.html) and [React](https://reactjs.org/) boilerplate with [Webpack](https://webpack.js.org/) to streamline common front-end tasks.
+A minimal [Foundation for Sites 6](https://foundation.zurb.com/sites.html) and [React](https://reactjs.org/) boilerplate.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ $ yarn run dev
 
 ## The Build
 
-[Webpack](https://webpack.js.org/) is a JavaScript module bundler that generates static assets, and takes care of a number of common frontend tasks in this boilerplate.
+[Webpack](https://webpack.js.org/) is a JavaScript module bundler that generates static assets, which takes care of a number of common frontend tasks in this boilerplate.
 
 ###### Development
 
