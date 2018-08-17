@@ -92,7 +92,8 @@ module.exports = {
     filename: 'js/app.js',
   },
   resolve: {
-    extensions: ['.js', '.jsx', '.json']
+    extensions: ['.js', '.jsx', '.json'],
+    modules: [path.resolve(__dirname, 'src/js/components'), 'node_modules']
   },
   module: {
     rules: [

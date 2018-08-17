@@ -24,7 +24,7 @@ import ReactDOM from 'react-dom';
  * App
  * @type {Object}
  */
-import App from './Components/App';
+import App from 'app';
 
 /**
  * Render the application
